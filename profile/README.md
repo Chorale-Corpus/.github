@@ -15,3 +15,14 @@ and centuries (mostly 18th, but also earlier).
 We complement the scores with atypical forms of multimodality, notably the metadata associated with usage, particularly
 the re-use of certain themes, and 
 the liturgical use (function) of these chorales.
+
+
+## Organization Repositories
+
+- [Apel_GC](https://github.com/Chorale-Corpus/Apel_GC)
+- [Bach_JS](https://github.com/Chorale-Corpus/Bach_JS)
+- [Goudimel_C](https://github.com/Chorale-Corpus/Goudimel_C)
+- [Kittel_JC](https://github.com/Chorale-Corpus/Kittel_JC)
+- [Rein_JB](https://github.com/Chorale-Corpus/Rein_JB)
+- [Schiorring](https://github.com/Chorale-Corpus/Schiorring)
+- [Zinck_BF](https://github.com/Chorale-Corpus/Zinck_BF)
