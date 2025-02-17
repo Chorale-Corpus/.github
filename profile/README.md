@@ -17,7 +17,7 @@ the re-use of certain themes, and
 the liturgical use (function) of these chorales.
 
 
-## Organization Repositories
+## Sub-corpora
 
 - [Apel_GC](https://github.com/Chorale-Corpus/Apel_GC)
 - [Bach_JS](https://github.com/Chorale-Corpus/Bach_JS)
@@ -26,3 +26,7 @@ the liturgical use (function) of these chorales.
 - [Rein_JB](https://github.com/Chorale-Corpus/Rein_JB)
 - [Schiorring](https://github.com/Chorale-Corpus/Schiorring)
 - [Zinck_BF](https://github.com/Chorale-Corpus/Zinck_BF)
+
+## Whole-in-one repository:
+
+https://github.com/Chorale-Corpus/data
