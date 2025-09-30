@@ -27,6 +27,7 @@ the liturgical use (function) of these chorales.
 - [Schiorring](https://github.com/Chorale-Corpus/Schiorring)
 - [Zinck_BF](https://github.com/Chorale-Corpus/Zinck_BF)
 
-## Whole-in-one repository:
+## Collective repos:
 
-https://github.com/Chorale-Corpus/data
+- Whole-in-one repository for the combined data: https://github.com/Chorale-Corpus/data
+- Code for computational analysis of chorale data, with shared utility across the corpora: https://github.com/Chorale-Corpus/analysis
